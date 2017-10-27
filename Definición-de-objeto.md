@@ -5,7 +5,9 @@ Definición conceptual de un objeto
 
 Clase: Muñeca.
 
-Objeto: Hada.
+Nombre: Invierno
+
+Tipo: Hada.
 
 Inspitación: Mitologia celta.
 
